@@ -1,0 +1,30 @@
+﻿{
+	"version": 1530772652,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"images/player-sheet0.png",
+		"images/platform-sheet0.png",
+		"images/platform-sheet1.png",
+		"images/platform-sheet2.png",
+		"images/cam-sheet0.png",
+		"images/line-sheet0.png",
+		"images/target-sheet0.png",
+		"images/bird1-sheet0.png",
+		"images/bird2-sheet0.png",
+		"images/bird3-sheet0.png",
+		"images/bg_game-sheet0.png",
+		"images/score.png",
+		"images/bg_start-sheet0.png",
+		"images/start-sheet0.png",
+		"images/cloud-sheet0.png",
+		"images/bg_end-sheet0.png",
+		"images/share-sheet0.png",
+		"images/restart-sheet0.png",
+		"images/share1-sheet0.png",
+		"images/share3-sheet0.png",
+		"images/share2-sheet0.png",
+		"images/shadow-sheet0.png"
+	]
+}
